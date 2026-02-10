@@ -1,4 +1,4 @@
-ConcurrentFleet
+VehicleTracker
 
 A simple Java console application for tracking vehicles in real-time using threads.
 
